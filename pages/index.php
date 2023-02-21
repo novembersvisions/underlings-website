@@ -13,15 +13,16 @@
 <body>
 <div class="home-1">
 
-<?php include 'partials/header.php'; ?>
+  <?php include 'partials/header.php'; ?>
 
-<div class="home-1-text">
-  <h1>Cornell Linguistics Undergraduates</h1>
-  <h2>Cornell Underlings is the undergraduate student group of the Cornell Department of Linguistics.</h2>
-  <h2>It serves to seek unity in the body of linguistics majors and promote linguistics at the undergraduate level at Cornell as well as the broader academic community.</h2>
-  <a href="/about"><div class="home-1-button"><p>Learn More</p></div></a>
-</div>
+  <div class="home-1-text">
+    <h1>Cornell Linguistics Undergraduates</h1>
+    <h2>Cornell Underlings is the undergraduate student group of the Cornell Department of Linguistics.</h2>
+    <h2>It serves to seek unity in the body of linguistics majors and promote linguistics at the undergraduate level at Cornell as well as the broader academic community.</h2>
+    <a href="/about"><div class="home-1-button"><p>Learn More</p></div></a>
+  </div>
 
+  <div class="img-placeholder"></div>
 
 </div>
 
