@@ -1,0 +1,41 @@
+/* text styles */
+
+a {
+    text-decoration: none;
+}
+
+h1,h2,h3,p {
+    font-family: sans-serif;
+}
+
+/* header */
+
+.header {
+    padding: 40px;
+}
+
+.header h1 {
+    font-size: 28px;
+    font-weight: 300;
+    display: inline-block;
+    vertical-align: bottom;
+    padding-left: 10px;
+}
+
+.header a, .navbar li a {
+    color: black;
+}
+
+nav {
+    padding-right: 5%;
+    float: right;
+}
+
+.navbar li {
+    font-size: 20px;
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 10px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
