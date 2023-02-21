@@ -1,0 +1,6 @@
+
+*.json
+.DS_Store
+.devcontainer/docker.ini
+.devcontainer/Dockerfile
+.vscode/README.md
