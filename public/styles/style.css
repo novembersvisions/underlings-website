@@ -45,6 +45,10 @@ nav {
     text-transform: uppercase;
 }
 
+.current {
+    border-bottom: 4px solid rgb(206, 20, 20);
+}
+
 /* homepage */
 
 .home-1 {

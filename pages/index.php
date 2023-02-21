@@ -1,3 +1,9 @@
+<?php
+$nav_about = '';
+$nav_culc = '';
+$nav_events = '';
+$nav_contact = '';
+?>
 <!DOCTYPE html>
 <html lang="en">
 
