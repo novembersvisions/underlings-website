@@ -32,6 +32,12 @@ $nav_contact = '';
 
 </div>
 
+<div class="home-2">
+  <h2>The Cornell Underlings invites anyone who is interested in languages, language patterns, language usage, language change, or anything language-related to join us in Morrill Hall. You don't have to be in the linguistics major to experience be a part of the Underlings!</h2>
+  <h2>We have weekly meetings in which members plan events and activities, discuss linguistics and share related information, and simply have fun chatting about classes and professors.</h2>
+  <a href="https://cornell.campusgroups.com/UnderLings/club_signup" target="_blank"><div class="home-2-button"><p>Join Us</p></div></a>
+</div>
+
 </body>
 
 </html>

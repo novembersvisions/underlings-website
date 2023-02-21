@@ -8,6 +8,10 @@ h1,h2,h3,p {
     font-family: sans-serif;
 }
 
+p, h2 {
+    letter-spacing: 1px;
+}
+
 h2 {
     font-weight: 200;
     font-size: 19px;
@@ -60,12 +64,36 @@ nav {
     left: 0;
 }
 
+.home-2 {
+    position: relative;
+    margin-top: 800px;
+    height: 200px;
+    padding: 170px;
+}
+
 .home-1-text {
     position: absolute;
     margin-top: 5%;
     margin-right: 50%;
     margin-left: 10%;
     letter-spacing: 1px;
+}
+
+.home-2-button {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5%;
+    background-color: rgb(142, 142, 142);
+    width: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+
+.home-2-button:hover {
+    background-color: rgb(101, 101, 101);
 }
 
 .home-1-text h1 {
