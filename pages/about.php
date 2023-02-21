@@ -26,7 +26,7 @@ $nav_contact = '';
 
         <h2>Cornell Underlings is the undergraduate student group of the Cornell Department of Linguistics.</h2>
         <h2>It serves to seek unity in the body of linguistics majors and promote linguistics at the undergraduate level at Cornell as well as the broader academic community.</h2>
-        <h2>The Cornell Underlings invites anyone who is interested in languages, language patterns, language usage, language change, or anything language-related to join us in Morrill Hall. You don't have to be in the linguistics major to experience be a part of the Underlings!</h2>
+        <h2>The Cornell Underlings invites anyone who is interested in languages, language patterns, language usage, language change, or anything language-related to join us in Morrill Hall. You don't have to be in the linguistics major to be apart of the Underlings!</h2>
         <h2>We have weekly meetings in which members plan events and activities, discuss linguistics and share related information, and simply have fun chatting about classes and professors.</h2>
         <a href="https://cornell.campusgroups.com/UnderLings/club_signup" target="_blank"><div class="about-button"><p>Join Us</p></div></a>
     </div>
