@@ -42,6 +42,7 @@ $nav_contact = '';
   <div class="home-3-text">
     <h1>CULC 17</h1>
     <h2>Cornell University's undergraduate linguistics association presents its 17th annual undergraduate research colloquium. By facilitating communication and discussion between researchers, the conference aims to promote undergraduate research at all levels throughout the linguistics community.</h2>
+    <h2>The colloquium will be held on April 22-23, 2023.</h2>
     <a href="/culc"><div class="home-3-button"><p>Register</p></div></a>
   </div>
 </div>
