@@ -34,21 +34,14 @@ $nav_contact = '';
     <div class="about-2-text">
         <h1>Officers</h1>
 
-        <img src="public/images/wug.png" width="105">
-        <img src="public/images/wug.png" width="105">
-        <img src="public/images/wug.png" width="105">
-        <img src="public/images/wug.png" width="105">
-        <img src="public/images/wug.png" width="105">
-        <img src="public/images/wug.png" width="105">
-        <img src="public/images/wug.png" width="105">
         <ul class="officers">
-            <li>Faculty Advisor<br>Abby Cohn</li>
-            <li>President<br>Charlie Preston</li>
-            <li>Vice President<br>Luis Hernandez</li>
-            <li>Secretary<br>Jaden Cumpston</li>
-            <li>Treasurer<br>Bokai Liu</li>
-            <li>CULC Chair<br>Aidan Ackerman</li>
-            <li>Social Chair<br>Lucas Li</li>
+        <li>Faculty Advisor<br>Abby Cohn</li><img src="public/images/wug.png" width="105">
+        <li>President<br>Charlie Preston</li><img src="public/images/wug.png" width="105">
+        <li>Vice President<br>Luis Hernandez</li><img src="public/images/wug.png" width="105">
+        <li>Secretary<br>Jaden Cumpston</li><img src="public/images/wug.png" width="105">
+        <li>Treasurer<br>Bokai Liu</li><img src="public/images/wug.png" width="105">
+        <li>CULC Chair<br>Aidan Ackerman</li><img src="public/images/wug.png" width="105">
+        <li>Social Chair<br>Lucas Li</li><img src="public/images/wug.png" width="105">
         </ul>
 
     </div>
