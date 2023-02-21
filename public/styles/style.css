@@ -182,8 +182,9 @@ nav {
 .about-2-text {
     position: relative;
     height: 200px;
-    padding: 170px;
+    padding-left: 100px;
     padding-top: 350px;
+    padding-bottom: 170px;
 }
 
 .about-2-text h1 {
@@ -191,14 +192,20 @@ nav {
 }
 
 .about-2-text img {
-    margin-right: 10%;
+    margin-right: 6%;
     background-color: rgb(213, 213, 213);
     border-radius: 50%;
 }
 
-.officers li {
-    display: inline-block;
-    margin-right: 12%;
+.officers {
     margin-left: -30px;
+}
+
+.officers li {
+    font-size: 12px;
+    letter-spacing: 1px;
+    display: inline-block;
+    margin-right: 6%;
     margin-top: 20px;
+    width: 105px;
 }

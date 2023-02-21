@@ -34,14 +34,21 @@ $nav_contact = '';
     <div class="about-2-text">
         <h1>Officers</h1>
 
-        <img src="public/images/wug.png" width="100">
-        <img src="public/images/wug.png" width="100">
-        <img src="public/images/wug.png" width="100">
-        <img src="public/images/wug.png" width="100">
+        <img src="public/images/wug.png" width="105">
+        <img src="public/images/wug.png" width="105">
+        <img src="public/images/wug.png" width="105">
+        <img src="public/images/wug.png" width="105">
+        <img src="public/images/wug.png" width="105">
+        <img src="public/images/wug.png" width="105">
+        <img src="public/images/wug.png" width="105">
         <ul class="officers">
-            <li>President<br> Charlie Preston</li>
-            <li>Vice President<br> Luis Hernandez</li>
-            <li>Secretary<br> Jaden Cumpston</li>
+            <li>Faculty Advisor<br>Abby Cohn</li>
+            <li>President<br>Charlie Preston</li>
+            <li>Vice President<br>Luis Hernandez</li>
+            <li>Secretary<br>Jaden Cumpston</li>
+            <li>Treasurer<br>Bokai Liu</li>
+            <li>CULC Chair<br>Aidan Ackerman</li>
+            <li>Social Chair<br>Lucas Li</li>
         </ul>
 
     </div>
