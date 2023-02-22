@@ -5,7 +5,6 @@ const ROUTES = array(
   '/about' => 'pages/about.php',
   '/contact' => 'pages/contact.php',
   '/culc' => 'pages/culc.php',
-  '/events' => 'pages/events.php',
   '/404' => 'pages/404.php',
 );
 

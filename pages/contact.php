@@ -1,7 +1,6 @@
 <?php
 $nav_about = '';
 $nav_culc = '';
-$nav_events = '';
 $nav_contact = 'current';
 ?>
 <!DOCTYPE html>

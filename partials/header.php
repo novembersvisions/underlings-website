@@ -10,7 +10,6 @@
 
             <li class="nav"><a href="/about" class="<?php echo $nav_about; ?>">About</a></li>
             <li class="nav"><a href="/culc" class="<?php echo $nav_culc; ?>">CULC</a></li>
-            <li class="nav"><a href="/events" class="<?php echo $nav_events; ?>">Events</a></li>
             <li class="nav"><a href="/contact" class="<?php echo $nav_contact; ?>">Contact</a></li>
 
             </h3>
